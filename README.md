@@ -42,7 +42,7 @@ Patient Data (N Hospitals)
 
 ---
 
-### Hybrid 4 — Multi-Modal Cross-Attention Fusion
+### Hybrid 2 — Multi-Modal Cross-Attention Fusion
 ```
 Clinical Features ──► Modal Encoder 1 ──┐
 Wearable Features ──► Modal Encoder 2 ──┼──► Cross-Attention ──► Fusion MLP ──► Prediction
@@ -57,7 +57,7 @@ Genomic Features  ──► Modal Encoder 3 ──┘         ↑
 
 ---
 
-### Hybrid 10 — Digital Twin + Reinforcement Learning Risk Monitor
+### Hybrid 3 — Digital Twin + Reinforcement Learning Risk Monitor
 ```
 Patient State (t=0) ──► Base GBM Model ──► Risk Score
         │                                        │
@@ -183,8 +183,8 @@ Dataset 1 (PIMA-Style): 768 samples | 8 features
 This work addresses the following **open research gaps** identified in the T2DM prediction literature (2024–2026):
 
 1. **Privacy-preserving prediction** — Hybrid 1 demonstrates federated learning for T2DM without centralising sensitive patient data
-2. **Multi-modal heterogeneous fusion** — Hybrid 4 combines clinical, wearable, and genomic data via cross-attention, addressing the challenge of aligning different feature spaces
-3. **Dynamic longitudinal risk monitoring** — Hybrid 10 introduces a digital twin + RL framework for adaptive, time-aware T2DM risk assessment
+2. **Multi-modal heterogeneous fusion** — Hybrid 2 combines clinical, wearable, and genomic data via cross-attention, addressing the challenge of aligning different feature spaces
+3. **Dynamic longitudinal risk monitoring** — Hybrid 3 introduces a digital twin + RL framework for adaptive, time-aware T2DM risk assessment
 4. **Explainability in clinical AI** — All hybrid models include XAI components (SHAP-style importance) for clinical trust and interpretability
 
 ---
@@ -197,17 +197,6 @@ This work addresses the following **open research gaps** identified in the T2DM 
 - Alagumariappan et al. (2025). *Optimized hybrid ML framework for early diabetes prediction using electrogastrograms.* Scientific Reports.
 - Lee et al. (2025). *Prediction model for T2DM and its association with mortality using ML in three independent cohorts.* eClinicalMedicine.
 
----
-
-## 🎯 Suggested Target Journals
-
-| Journal | Impact | Relevance |
-|---------|--------|-----------|
-| Nature Scientific Reports | High | Open access, broad ML+health scope |
-| IEEE Journal of Biomedical and Health Informatics | High | ML in healthcare |
-| Computers in Biology and Medicine | High | Computational health models |
-| Frontiers in Digital Health | Medium | Digital health AI |
-| JMIR AI | Medium | AI in medicine, open access |
 
 ---
 
