@@ -222,7 +222,7 @@ Department of [CSE]
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the TKRCET License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -231,7 +231,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 If you use this code in your research, please cite:
 
 ```bibtex
-@software{yourname2026t2dm,
+@software{pramodreddy2026t2dm,
   author    = {Pramod Reddy Ayluri},
   title     = {Early Prediction of Type 2 Diabetes Using Novel Hybrid Deep Learning Models},
   year      = {2026},
