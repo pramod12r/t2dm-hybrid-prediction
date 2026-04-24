@@ -140,7 +140,7 @@ t2dm-hybrid-prediction/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/t2dm-hybrid-prediction.git
+git clone https://github.com/pramod_local/t2dm-hybrid-prediction.git
 cd t2dm-hybrid-prediction
 ```
 
