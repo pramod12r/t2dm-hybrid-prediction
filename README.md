@@ -140,7 +140,7 @@ t2dm-hybrid-prediction/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pramod_local/t2dm-hybrid-prediction.git
+git clone https://github.com/pramod12r/t2dm-hybrid-prediction.git
 cd t2dm-hybrid-prediction
 ```
 
@@ -225,7 +225,7 @@ If you use this code in your research, please cite:
   title     = {Early Prediction of Type 2 Diabetes Using Novel Hybrid Deep Learning Models},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/pramod_local/t2dm-hybrid-prediction}
+  url       = {https://github.com/pramod12r/t2dm-hybrid-prediction}
 }
 ```
 
